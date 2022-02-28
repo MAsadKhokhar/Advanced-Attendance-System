@@ -1,7 +1,7 @@
 # Advanced-Attendance-System
 
 
-### Greetings! I am SNikhill :)
+### Greetings! I am Muhammad Asad :)
 
 **I am a Frontend Engineer 💻, Open Source Enthusiast, Linux Explorer :penguin: and a human :man:.**
 
@@ -20,16 +20,3 @@
 - [@email](mailto:sethnikhil74@gmail.com)
 - [@twitter](https://twitter.com/SethNikhill)
 - [@LinkedIn](https://www.linkedin.com/in/snikhill)
-
-#### Quote
-
-<blockquote> 
-  Men must be taught as if you taught them not <br />
-  And things unknown proposed as things forgot.
-</blockquote>
-
-#### Recommended Reads
-
--   _The Richest Man in Babylon_ by George S. Clason.
--   _The Subtle Art of Not Giving_ a F\*ck by Mark Manson.
--   _How to Win Friends and Influence People_ by Dale Carnegie.
