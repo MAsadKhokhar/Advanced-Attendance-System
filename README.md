@@ -3,20 +3,16 @@
 
 ### Greetings! I am Muhammad Asad :)
 
-**I am a Frontend Engineer 💻, Open Source Enthusiast, Linux Explorer :penguin: and a human :man:.**
+**I am a Python developer 💻, Open Source Enthusiast, :penguin: and a human :man:.**
 
-- :toolbox: I have been shaping the web, professionally, for 4 years.
+- :toolbox: I have been working on python web app development since 1 year.
   - _Currently, Innovating, Learning and Living Life_.
   - 💻 **OS**: Exploring Arch Based Distributions with i3WM.
-  - 🗒️ **Text Editor**: VIM + VSCode.
-    - ❓ **Why do I use VIM**? [Here is the answer](https://dev.to/snikhill/one-doesn-t-simply-exit-vim-jmo).
-
--  📚 I am a [Voracious Reader](#recommended-reads). I like to collect [inspiring quotes](#quote) and extracts from the books that I read.
-
+  - 🗒️ **Text Editor**: pycharm + VSCode.
+ 
 ## My Presence on the World Wide Web
 
-- [Personal Website](https://snikhill.tech)
+- [Personal Website](https://masadkhokhar.github.io/Advanced-Attendance-System/)
 - [@YouTube](https://www.youtube.com/SNikhill)
-- [@email](mailto:sethnikhil74@gmail.com)
-- [@twitter](https://twitter.com/SethNikhill)
-- [@LinkedIn](https://www.linkedin.com/in/snikhill)
+- [@email](mailto:m.asad02212@gmail.com)
+
